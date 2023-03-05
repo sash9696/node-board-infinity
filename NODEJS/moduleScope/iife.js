@@ -1,6 +1,8 @@
 
+//module wrapper and it gives us five parameters
+//
 
-(function () {
+(function (exports, require, module, __filename, __dirname) {
     const userName = 'Peter';
     console.log(userName)
 })();

@@ -1,0 +1,7 @@
+{
+    "name": "John",
+    "address": {
+        "street": "Street 100",
+        "city": "Delhi"
+    }
+}
